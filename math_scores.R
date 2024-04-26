@@ -1,4 +1,4 @@
-my_data <- read.csv("/Users/ivymbunda/Documents/GitHub/Predicting-Math-scores-using-Linear-Regression/graduation rates/StudentsPerformance.csv")
+my_data <- read.csv("/Users/ivymbunda/Documents/GitHub/Predicting-Math-scores-using-Linear-Regression/StudentsPerformance.csv")
 
 #Explore the structure of the dataset
 str(my_data) 
