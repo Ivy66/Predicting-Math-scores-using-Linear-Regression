@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/Predicting-Math-scores-using-Linear-Regression/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "2551721383",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1714062576863.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "31,243",
-        "scrollLine": "1"
+        "cursorPosition": "5,67",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1714151292,
+    "lastKnownWriteTime": 1714151347,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1714151292318,
+    "last_content_update": 1714151347170,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -29,4 +29,4 @@ The following visualization was created to better explore the data:
 
 
 ## Conclusion 
-In conclusion, this analysis provided insights into the factors influencing math scores among students. The linear regression model revealed that reading scores, writing scores, gender, and lunch type are significant predictors of math scores.
+In conclusion, this analysis provided insights into the factors influencing math scores among students. The linear regression model revealed that reading scores, writing scores, gender, and lunch type are significant predictors of students math scores.
