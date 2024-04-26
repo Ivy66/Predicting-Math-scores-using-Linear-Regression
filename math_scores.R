@@ -9,6 +9,16 @@ head(my_data)
 # lets generate a summary of the numerical variables
 summary(my_data)  # Generate summary statistics for numerical variables
 
+# calculate the maximum math, reading and writing score 
+max_math_score <- max(my_data$math.score)
+max_reading_score <- max(my_data$reading.score)
+max_writing_score <- max(my_data$writing.score)
+
+# Divide the scores the score by the maximum possible and multiply by 100 
+data$math.score <- (my_data$math.score / max_math_Score) * 100
+data$reading.score <- (my_data$reading.score / max_reading_Score) * 100
+data$writing.score <- (my_data$writing.score / max_writing_Score) * 100
+
 # Data visualization
  #Histogram of math scores
 hist(my_data$math.score, 
